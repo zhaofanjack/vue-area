@@ -122,18 +122,6 @@ export const province = [{
 	code: 650000,
 	name: '新疆维吾尔自治区',
 	parentId: 0
-}, {
-	code: 710000,
-	name: '台湾省',
-	parentId: 0
-}, {
-	code: 810000,
-	name: '香港特别行政区',
-	parentId: 0
-}, {
-	code: 820000,
-	name: '澳门特别行政区',
-	parentId: 0
 }];
 
 
@@ -1648,10 +1636,6 @@ export const area = [{
 	name: '蓟县',
 	parentId: 120200
 }, {
-	code: 130101,
-	name: '市辖区',
-	parentId: 130100
-}, {
 	code: 130102,
 	name: '长安区',
 	parentId: 130100
@@ -1740,10 +1724,6 @@ export const area = [{
 	name: '新乐市',
 	parentId: 130100
 }, {
-	code: 130201,
-	name: '市辖区',
-	parentId: 130200
-}, {
 	code: 130202,
 	name: '路南区',
 	parentId: 130200
@@ -1800,10 +1780,6 @@ export const area = [{
 	name: '迁安市',
 	parentId: 130200
 }, {
-	code: 130301,
-	name: '市辖区',
-	parentId: 130300
-}, {
 	code: 130302,
 	name: '海港区',
 	parentId: 130300
@@ -1831,10 +1807,6 @@ export const area = [{
 	code: 130324,
 	name: '卢龙县',
 	parentId: 130300
-}, {
-	code: 130401,
-	name: '市辖区',
-	parentId: 130400
 }, {
 	code: 130402,
 	name: '邯山区',
@@ -1912,10 +1884,6 @@ export const area = [{
 	name: '武安市',
 	parentId: 130400
 }, {
-	code: 130501,
-	name: '市辖区',
-	parentId: 130500
-}, {
 	code: 130502,
 	name: '桥东区',
 	parentId: 130500
@@ -1991,10 +1959,6 @@ export const area = [{
 	code: 130582,
 	name: '沙河市',
 	parentId: 130500
-}, {
-	code: 130601,
-	name: '市辖区',
-	parentId: 130600
 }, {
 	code: 130602,
 	name: '新市区',
@@ -2096,10 +2060,6 @@ export const area = [{
 	name: '高碑店市',
 	parentId: 130600
 }, {
-	code: 130701,
-	name: '市辖区',
-	parentId: 130700
-}, {
 	code: 130702,
 	name: '桥东区',
 	parentId: 130700
@@ -2168,10 +2128,6 @@ export const area = [{
 	name: '崇礼县',
 	parentId: 130700
 }, {
-	code: 130801,
-	name: '市辖区',
-	parentId: 130800
-}, {
 	code: 130802,
 	name: '双桥区',
 	parentId: 130800
@@ -2215,10 +2171,6 @@ export const area = [{
 	code: 130828,
 	name: '围场满族蒙古族自治县',
 	parentId: 130800
-}, {
-	code: 130901,
-	name: '市辖区',
-	parentId: 130900
 }, {
 	code: 130902,
 	name: '新华区',
@@ -2284,10 +2236,6 @@ export const area = [{
 	name: '河间市',
 	parentId: 130900
 }, {
-	code: 131001,
-	name: '市辖区',
-	parentId: 131000
-}, {
 	code: 131002,
 	name: '安次区',
 	parentId: 131000
@@ -2327,10 +2275,6 @@ export const area = [{
 	code: 131082,
 	name: '三河市',
 	parentId: 131000
-}, {
-	code: 131101,
-	name: '市辖区',
-	parentId: 131100
 }, {
 	code: 131102,
 	name: '桃城区',
@@ -2376,10 +2320,6 @@ export const area = [{
 	name: '深州市',
 	parentId: 131100
 }, {
-	code: 140101,
-	name: '市辖区',
-	parentId: 140100
-}, {
 	code: 140105,
 	name: '小店区',
 	parentId: 140100
@@ -2419,10 +2359,6 @@ export const area = [{
 	code: 140181,
 	name: '古交市',
 	parentId: 140100
-}, {
-	code: 140201,
-	name: '市辖区',
-	parentId: 140200
 }, {
 	code: 140202,
 	name: '城区',
@@ -2468,10 +2404,6 @@ export const area = [{
 	name: '大同县',
 	parentId: 140200
 }, {
-	code: 140301,
-	name: '市辖区',
-	parentId: 140300
-}, {
 	code: 140302,
 	name: '城区',
 	parentId: 140300
@@ -2491,10 +2423,6 @@ export const area = [{
 	code: 140322,
 	name: '盂县',
 	parentId: 140300
-}, {
-	code: 140401,
-	name: '市辖区',
-	parentId: 140400
 }, {
 	code: 140402,
 	name: '城区',
@@ -2548,10 +2476,6 @@ export const area = [{
 	name: '潞城市',
 	parentId: 140400
 }, {
-	code: 140501,
-	name: '市辖区',
-	parentId: 140500
-}, {
 	code: 140502,
 	name: '城区',
 	parentId: 140500
@@ -2576,10 +2500,6 @@ export const area = [{
 	name: '高平市',
 	parentId: 140500
 }, {
-	code: 140601,
-	name: '市辖区',
-	parentId: 140600
-}, {
 	code: 140602,
 	name: '朔城区',
 	parentId: 140600
@@ -2603,10 +2523,6 @@ export const area = [{
 	code: 140624,
 	name: '怀仁县',
 	parentId: 140600
-}, {
-	code: 140701,
-	name: '市辖区',
-	parentId: 140700
 }, {
 	code: 140702,
 	name: '榆次区',
@@ -2651,10 +2567,6 @@ export const area = [{
 	code: 140781,
 	name: '介休市',
 	parentId: 140700
-}, {
-	code: 140801,
-	name: '市辖区',
-	parentId: 140800
 }, {
 	code: 140802,
 	name: '盐湖区',
@@ -2707,10 +2619,6 @@ export const area = [{
 	code: 140882,
 	name: '河津市',
 	parentId: 140800
-}, {
-	code: 140901,
-	name: '市辖区',
-	parentId: 140900
 }, {
 	code: 140902,
 	name: '忻府区',
@@ -2767,10 +2675,6 @@ export const area = [{
 	code: 140981,
 	name: '原平市',
 	parentId: 140900
-}, {
-	code: 141001,
-	name: '市辖区',
-	parentId: 141000
 }, {
 	code: 141002,
 	name: '尧都区',
@@ -2840,10 +2744,6 @@ export const area = [{
 	name: '霍州市',
 	parentId: 141000
 }, {
-	code: 141101,
-	name: '市辖区',
-	parentId: 141100
-}, {
 	code: 141102,
 	name: '离石区',
 	parentId: 141100
@@ -2896,10 +2796,6 @@ export const area = [{
 	name: '汾阳市',
 	parentId: 141100
 }, {
-	code: 150101,
-	name: '市辖区',
-	parentId: 150100
-}, {
 	code: 150102,
 	name: '新城区',
 	parentId: 150100
@@ -2935,10 +2831,6 @@ export const area = [{
 	code: 150125,
 	name: '武川县',
 	parentId: 150100
-}, {
-	code: 150201,
-	name: '市辖区',
-	parentId: 150200
 }, {
 	code: 150202,
 	name: '东河区',
@@ -2976,10 +2868,6 @@ export const area = [{
 	name: '达尔罕茂明安联合旗',
 	parentId: 150200
 }, {
-	code: 150301,
-	name: '市辖区',
-	parentId: 150300
-}, {
 	code: 150302,
 	name: '海勃湾区',
 	parentId: 150300
@@ -2991,10 +2879,6 @@ export const area = [{
 	code: 150304,
 	name: '乌达区',
 	parentId: 150300
-}, {
-	code: 150401,
-	name: '市辖区',
-	parentId: 150400
 }, {
 	code: 150402,
 	name: '红山区',
@@ -3044,10 +2928,6 @@ export const area = [{
 	name: '敖汉旗',
 	parentId: 150400
 }, {
-	code: 150501,
-	name: '市辖区',
-	parentId: 150500
-}, {
 	code: 150502,
 	name: '科尔沁区',
 	parentId: 150500
@@ -3080,10 +2960,6 @@ export const area = [{
 	name: '霍林郭勒市',
 	parentId: 150500
 }, {
-	code: 150601,
-	name: '市辖区',
-	parentId: 150600
-}, {
 	code: 150602,
 	name: '东胜区',
 	parentId: 150600
@@ -3115,10 +2991,6 @@ export const area = [{
 	code: 150627,
 	name: '伊金霍洛旗',
 	parentId: 150600
-}, {
-	code: 150701,
-	name: '市辖区',
-	parentId: 150700
 }, {
 	code: 150702,
 	name: '海拉尔区',
@@ -3176,10 +3048,6 @@ export const area = [{
 	name: '根河市',
 	parentId: 150700
 }, {
-	code: 150801,
-	name: '市辖区',
-	parentId: 150800
-}, {
 	code: 150802,
 	name: '临河区',
 	parentId: 150800
@@ -3207,10 +3075,6 @@ export const area = [{
 	code: 150826,
 	name: '杭锦后旗',
 	parentId: 150800
-}, {
-	code: 150901,
-	name: '市辖区',
-	parentId: 150900
 }, {
 	code: 150902,
 	name: '集宁区',
@@ -3340,10 +3204,6 @@ export const area = [{
 	name: '额济纳旗',
 	parentId: 152900
 }, {
-	code: 210101,
-	name: '市辖区',
-	parentId: 210100
-}, {
 	code: 210102,
 	name: '和平区',
 	parentId: 210100
@@ -3396,10 +3256,6 @@ export const area = [{
 	name: '新民市',
 	parentId: 210100
 }, {
-	code: 210201,
-	name: '市辖区',
-	parentId: 210200
-}, {
 	code: 210202,
 	name: '中山区',
 	parentId: 210200
@@ -3440,10 +3296,6 @@ export const area = [{
 	name: '庄河市',
 	parentId: 210200
 }, {
-	code: 210301,
-	name: '市辖区',
-	parentId: 210300
-}, {
 	code: 210302,
 	name: '铁东区',
 	parentId: 210300
@@ -3471,10 +3323,6 @@ export const area = [{
 	code: 210381,
 	name: '海城市',
 	parentId: 210300
-}, {
-	code: 210401,
-	name: '市辖区',
-	parentId: 210400
 }, {
 	code: 210402,
 	name: '新抚区',
@@ -3504,10 +3352,6 @@ export const area = [{
 	name: '清原满族自治县',
 	parentId: 210400
 }, {
-	code: 210501,
-	name: '市辖区',
-	parentId: 210500
-}, {
 	code: 210502,
 	name: '平山区',
 	parentId: 210500
@@ -3532,10 +3376,6 @@ export const area = [{
 	name: '桓仁满族自治县',
 	parentId: 210500
 }, {
-	code: 210601,
-	name: '市辖区',
-	parentId: 210600
-}, {
 	code: 210602,
 	name: '元宝区',
 	parentId: 210600
@@ -3559,10 +3399,6 @@ export const area = [{
 	code: 210682,
 	name: '凤城市',
 	parentId: 210600
-}, {
-	code: 210701,
-	name: '市辖区',
-	parentId: 210700
 }, {
 	code: 210702,
 	name: '古塔区',
@@ -3592,10 +3428,6 @@ export const area = [{
 	name: '北镇市',
 	parentId: 210700
 }, {
-	code: 210801,
-	name: '市辖区',
-	parentId: 210800
-}, {
 	code: 210802,
 	name: '站前区',
 	parentId: 210800
@@ -3619,10 +3451,6 @@ export const area = [{
 	code: 210882,
 	name: '大石桥市',
 	parentId: 210800
-}, {
-	code: 210901,
-	name: '市辖区',
-	parentId: 210900
 }, {
 	code: 210902,
 	name: '海州区',
@@ -3652,10 +3480,6 @@ export const area = [{
 	name: '彰武县',
 	parentId: 210900
 }, {
-	code: 211001,
-	name: '市辖区',
-	parentId: 211000
-}, {
 	code: 211002,
 	name: '白塔区',
 	parentId: 211000
@@ -3684,10 +3508,6 @@ export const area = [{
 	name: '灯塔市',
 	parentId: 211000
 }, {
-	code: 211101,
-	name: '市辖区',
-	parentId: 211100
-}, {
 	code: 211102,
 	name: '双台子区',
 	parentId: 211100
@@ -3703,10 +3523,6 @@ export const area = [{
 	code: 211122,
 	name: '盘山县',
 	parentId: 211100
-}, {
-	code: 211201,
-	name: '市辖区',
-	parentId: 211200
 }, {
 	code: 211202,
 	name: '银州区',
@@ -3736,10 +3552,6 @@ export const area = [{
 	name: '开原市',
 	parentId: 211200
 }, {
-	code: 211301,
-	name: '市辖区',
-	parentId: 211300
-}, {
 	code: 211302,
 	name: '双塔区',
 	parentId: 211300
@@ -3768,10 +3580,6 @@ export const area = [{
 	name: '凌源市',
 	parentId: 211300
 }, {
-	code: 211401,
-	name: '市辖区',
-	parentId: 211400
-}, {
 	code: 211402,
 	name: '连山区',
 	parentId: 211400
@@ -3795,10 +3603,6 @@ export const area = [{
 	code: 211481,
 	name: '兴城市',
 	parentId: 211400
-}, {
-	code: 220101,
-	name: '市辖区',
-	parentId: 220100
 }, {
 	code: 220102,
 	name: '南关区',
@@ -3840,10 +3644,6 @@ export const area = [{
 	name: '德惠市',
 	parentId: 220100
 }, {
-	code: 220201,
-	name: '市辖区',
-	parentId: 220200
-}, {
 	code: 220202,
 	name: '昌邑区',
 	parentId: 220200
@@ -3880,10 +3680,6 @@ export const area = [{
 	name: '磐石市',
 	parentId: 220200
 }, {
-	code: 220301,
-	name: '市辖区',
-	parentId: 220300
-}, {
 	code: 220302,
 	name: '铁西区',
 	parentId: 220300
@@ -3908,10 +3704,6 @@ export const area = [{
 	name: '双辽市',
 	parentId: 220300
 }, {
-	code: 220401,
-	name: '市辖区',
-	parentId: 220400
-}, {
 	code: 220402,
 	name: '龙山区',
 	parentId: 220400
@@ -3927,10 +3719,6 @@ export const area = [{
 	code: 220422,
 	name: '东辽县',
 	parentId: 220400
-}, {
-	code: 220501,
-	name: '市辖区',
-	parentId: 220500
 }, {
 	code: 220502,
 	name: '东昌区',
@@ -3960,10 +3748,6 @@ export const area = [{
 	name: '集安市',
 	parentId: 220500
 }, {
-	code: 220601,
-	name: '市辖区',
-	parentId: 220600
-}, {
 	code: 220602,
 	name: '浑江区',
 	parentId: 220600
@@ -3988,10 +3772,6 @@ export const area = [{
 	name: '临江市',
 	parentId: 220600
 }, {
-	code: 220701,
-	name: '市辖区',
-	parentId: 220700
-}, {
 	code: 220702,
 	name: '宁江区',
 	parentId: 220700
@@ -4011,10 +3791,6 @@ export const area = [{
 	code: 220781,
 	name: '扶余市',
 	parentId: 220700
-}, {
-	code: 220801,
-	name: '市辖区',
-	parentId: 220800
 }, {
 	code: 220802,
 	name: '洮北区',
@@ -4067,10 +3843,6 @@ export const area = [{
 	code: 222426,
 	name: '安图县',
 	parentId: 222400
-}, {
-	code: 230101,
-	name: '市辖区',
-	parentId: 230100
 }, {
 	code: 230102,
 	name: '道里区',
@@ -4144,10 +3916,6 @@ export const area = [{
 	name: '五常市',
 	parentId: 230100
 }, {
-	code: 230201,
-	name: '市辖区',
-	parentId: 230200
-}, {
 	code: 230202,
 	name: '龙沙区',
 	parentId: 230200
@@ -4212,10 +3980,6 @@ export const area = [{
 	name: '讷河市',
 	parentId: 230200
 }, {
-	code: 230301,
-	name: '市辖区',
-	parentId: 230300
-}, {
 	code: 230302,
 	name: '鸡冠区',
 	parentId: 230300
@@ -4252,10 +4016,6 @@ export const area = [{
 	name: '密山市',
 	parentId: 230300
 }, {
-	code: 230401,
-	name: '市辖区',
-	parentId: 230400
-}, {
 	code: 230402,
 	name: '向阳区',
 	parentId: 230400
@@ -4288,10 +4048,6 @@ export const area = [{
 	name: '绥滨县',
 	parentId: 230400
 }, {
-	code: 230501,
-	name: '市辖区',
-	parentId: 230500
-}, {
 	code: 230502,
 	name: '尖山区',
 	parentId: 230500
@@ -4323,10 +4079,6 @@ export const area = [{
 	code: 230524,
 	name: '饶河县',
 	parentId: 230500
-}, {
-	code: 230601,
-	name: '市辖区',
-	parentId: 230600
 }, {
 	code: 230602,
 	name: '萨尔图区',
@@ -4363,10 +4115,6 @@ export const area = [{
 	code: 230624,
 	name: '杜尔伯特蒙古族自治县',
 	parentId: 230600
-}, {
-	code: 230701,
-	name: '市辖区',
-	parentId: 230700
 }, {
 	code: 230702,
 	name: '伊春区',
@@ -4436,10 +4184,6 @@ export const area = [{
 	name: '铁力市',
 	parentId: 230700
 }, {
-	code: 230801,
-	name: '市辖区',
-	parentId: 230800
-}, {
 	code: 230803,
 	name: '向阳区',
 	parentId: 230800
@@ -4480,10 +4224,6 @@ export const area = [{
 	name: '富锦市',
 	parentId: 230800
 }, {
-	code: 230901,
-	name: '市辖区',
-	parentId: 230900
-}, {
 	code: 230902,
 	name: '新兴区',
 	parentId: 230900
@@ -4499,10 +4239,6 @@ export const area = [{
 	code: 230921,
 	name: '勃利县',
 	parentId: 230900
-}, {
-	code: 231001,
-	name: '市辖区',
-	parentId: 231000
 }, {
 	code: 231002,
 	name: '东安区',
@@ -4544,10 +4280,6 @@ export const area = [{
 	name: '穆棱市',
 	parentId: 231000
 }, {
-	code: 231101,
-	name: '市辖区',
-	parentId: 231100
-}, {
 	code: 231102,
 	name: '爱辉区',
 	parentId: 231100
@@ -4571,10 +4303,6 @@ export const area = [{
 	code: 231182,
 	name: '五大连池市',
 	parentId: 231100
-}, {
-	code: 231201,
-	name: '市辖区',
-	parentId: 231200
 }, {
 	code: 231202,
 	name: '北林区',
@@ -4696,10 +4424,6 @@ export const area = [{
 	name: '崇明县',
 	parentId: 310200
 }, {
-	code: 320101,
-	name: '市辖区',
-	parentId: 320100
-}, {
 	code: 320102,
 	name: '玄武区',
 	parentId: 320100
@@ -4744,10 +4468,6 @@ export const area = [{
 	name: '高淳区',
 	parentId: 320100
 }, {
-	code: 320201,
-	name: '市辖区',
-	parentId: 320200
-}, {
 	code: 320202,
 	name: '崇安区',
 	parentId: 320200
@@ -4779,10 +4499,6 @@ export const area = [{
 	code: 320282,
 	name: '宜兴市',
 	parentId: 320200
-}, {
-	code: 320301,
-	name: '市辖区',
-	parentId: 320300
 }, {
 	code: 320302,
 	name: '鼓楼区',
@@ -4824,10 +4540,6 @@ export const area = [{
 	name: '邳州市',
 	parentId: 320300
 }, {
-	code: 320401,
-	name: '市辖区',
-	parentId: 320400
-}, {
 	code: 320402,
 	name: '天宁区',
 	parentId: 320400
@@ -4855,10 +4567,6 @@ export const area = [{
 	code: 320482,
 	name: '金坛市',
 	parentId: 320400
-}, {
-	code: 320501,
-	name: '市辖区',
-	parentId: 320500
 }, {
 	code: 320505,
 	name: '虎丘区',
@@ -4896,10 +4604,6 @@ export const area = [{
 	name: '太仓市',
 	parentId: 320500
 }, {
-	code: 320601,
-	name: '市辖区',
-	parentId: 320600
-}, {
 	code: 320602,
 	name: '崇川区',
 	parentId: 320600
@@ -4932,10 +4636,6 @@ export const area = [{
 	name: '海门市',
 	parentId: 320600
 }, {
-	code: 320701,
-	name: '市辖区',
-	parentId: 320700
-}, {
 	code: 320703,
 	name: '连云区',
 	parentId: 320700
@@ -4959,10 +4659,6 @@ export const area = [{
 	code: 320724,
 	name: '灌南县',
 	parentId: 320700
-}, {
-	code: 320801,
-	name: '市辖区',
-	parentId: 320800
 }, {
 	code: 320802,
 	name: '清河区',
@@ -4995,10 +4691,6 @@ export const area = [{
 	code: 320831,
 	name: '金湖县',
 	parentId: 320800
-}, {
-	code: 320901,
-	name: '市辖区',
-	parentId: 320900
 }, {
 	code: 320902,
 	name: '亭湖区',
@@ -5036,10 +4728,6 @@ export const area = [{
 	name: '大丰市',
 	parentId: 320900
 }, {
-	code: 321001,
-	name: '市辖区',
-	parentId: 321000
-}, {
 	code: 321002,
 	name: '广陵区',
 	parentId: 321000
@@ -5063,10 +4751,6 @@ export const area = [{
 	code: 321084,
 	name: '高邮市',
 	parentId: 321000
-}, {
-	code: 321101,
-	name: '市辖区',
-	parentId: 321100
 }, {
 	code: 321102,
 	name: '京口区',
@@ -5092,10 +4776,6 @@ export const area = [{
 	name: '句容市',
 	parentId: 321100
 }, {
-	code: 321201,
-	name: '市辖区',
-	parentId: 321200
-}, {
 	code: 321202,
 	name: '海陵区',
 	parentId: 321200
@@ -5120,10 +4800,6 @@ export const area = [{
 	name: '泰兴市',
 	parentId: 321200
 }, {
-	code: 321301,
-	name: '市辖区',
-	parentId: 321300
-}, {
 	code: 321302,
 	name: '宿城区',
 	parentId: 321300
@@ -5143,10 +4819,6 @@ export const area = [{
 	code: 321324,
 	name: '泗洪县',
 	parentId: 321300
-}, {
-	code: 330101,
-	name: '市辖区',
-	parentId: 330100
 }, {
 	code: 330102,
 	name: '上城区',
@@ -5200,10 +4872,6 @@ export const area = [{
 	name: '临安市',
 	parentId: 330100
 }, {
-	code: 330201,
-	name: '市辖区',
-	parentId: 330200
-}, {
 	code: 330203,
 	name: '海曙区',
 	parentId: 330200
@@ -5247,10 +4915,6 @@ export const area = [{
 	code: 330283,
 	name: '奉化市',
 	parentId: 330200
-}, {
-	code: 330301,
-	name: '市辖区',
-	parentId: 330300
 }, {
 	code: 330302,
 	name: '鹿城区',
@@ -5296,10 +4960,6 @@ export const area = [{
 	name: '乐清市',
 	parentId: 330300
 }, {
-	code: 330401,
-	name: '市辖区',
-	parentId: 330400
-}, {
 	code: 330402,
 	name: '南湖区',
 	parentId: 330400
@@ -5328,10 +4988,6 @@ export const area = [{
 	name: '桐乡市',
 	parentId: 330400
 }, {
-	code: 330501,
-	name: '市辖区',
-	parentId: 330500
-}, {
 	code: 330502,
 	name: '吴兴区',
 	parentId: 330500
@@ -5351,10 +5007,6 @@ export const area = [{
 	code: 330523,
 	name: '安吉县',
 	parentId: 330500
-}, {
-	code: 330601,
-	name: '市辖区',
-	parentId: 330600
 }, {
 	code: 330602,
 	name: '越城区',
@@ -5379,10 +5031,6 @@ export const area = [{
 	code: 330683,
 	name: '嵊州市',
 	parentId: 330600
-}, {
-	code: 330701,
-	name: '市辖区',
-	parentId: 330700
 }, {
 	code: 330702,
 	name: '婺城区',
@@ -5420,10 +5068,6 @@ export const area = [{
 	name: '永康市',
 	parentId: 330700
 }, {
-	code: 330801,
-	name: '市辖区',
-	parentId: 330800
-}, {
 	code: 330802,
 	name: '柯城区',
 	parentId: 330800
@@ -5448,10 +5092,6 @@ export const area = [{
 	name: '江山市',
 	parentId: 330800
 }, {
-	code: 330901,
-	name: '市辖区',
-	parentId: 330900
-}, {
 	code: 330902,
 	name: '定海区',
 	parentId: 330900
@@ -5467,10 +5107,6 @@ export const area = [{
 	code: 330922,
 	name: '嵊泗县',
 	parentId: 330900
-}, {
-	code: 331001,
-	name: '市辖区',
-	parentId: 331000
 }, {
 	code: 331002,
 	name: '椒江区',
@@ -5508,10 +5144,6 @@ export const area = [{
 	name: '临海市',
 	parentId: 331000
 }, {
-	code: 331101,
-	name: '市辖区',
-	parentId: 331100
-}, {
 	code: 331102,
 	name: '莲都区',
 	parentId: 331100
@@ -5547,10 +5179,6 @@ export const area = [{
 	code: 331181,
 	name: '龙泉市',
 	parentId: 331100
-}, {
-	code: 340101,
-	name: '市辖区',
-	parentId: 340100
 }, {
 	code: 340102,
 	name: '瑶海区',
@@ -5588,10 +5216,6 @@ export const area = [{
 	name: '巢湖市',
 	parentId: 340100
 }, {
-	code: 340201,
-	name: '市辖区',
-	parentId: 340200
-}, {
 	code: 340202,
 	name: '镜湖区',
 	parentId: 340200
@@ -5624,10 +5248,6 @@ export const area = [{
 	name: '无为县',
 	parentId: 340200
 }, {
-	code: 340301,
-	name: '市辖区',
-	parentId: 340300
-}, {
 	code: 340302,
 	name: '龙子湖区',
 	parentId: 340300
@@ -5656,10 +5276,6 @@ export const area = [{
 	name: '固镇县',
 	parentId: 340300
 }, {
-	code: 340401,
-	name: '市辖区',
-	parentId: 340400
-}, {
 	code: 340402,
 	name: '大通区',
 	parentId: 340400
@@ -5683,10 +5299,6 @@ export const area = [{
 	code: 340421,
 	name: '凤台县',
 	parentId: 340400
-}, {
-	code: 340501,
-	name: '市辖区',
-	parentId: 340500
 }, {
 	code: 340503,
 	name: '花山区',
@@ -5712,10 +5324,6 @@ export const area = [{
 	name: '和县',
 	parentId: 340500
 }, {
-	code: 340601,
-	name: '市辖区',
-	parentId: 340600
-}, {
 	code: 340602,
 	name: '杜集区',
 	parentId: 340600
@@ -5732,10 +5340,6 @@ export const area = [{
 	name: '濉溪县',
 	parentId: 340600
 }, {
-	code: 340701,
-	name: '市辖区',
-	parentId: 340700
-}, {
 	code: 340702,
 	name: '铜官山区',
 	parentId: 340700
@@ -5751,10 +5355,6 @@ export const area = [{
 	code: 340721,
 	name: '铜陵县',
 	parentId: 340700
-}, {
-	code: 340801,
-	name: '市辖区',
-	parentId: 340800
 }, {
 	code: 340802,
 	name: '迎江区',
@@ -5800,10 +5400,6 @@ export const area = [{
 	name: '桐城市',
 	parentId: 340800
 }, {
-	code: 341001,
-	name: '市辖区',
-	parentId: 341000
-}, {
 	code: 341002,
 	name: '屯溪区',
 	parentId: 341000
@@ -5831,10 +5427,6 @@ export const area = [{
 	code: 341024,
 	name: '祁门县',
 	parentId: 341000
-}, {
-	code: 341101,
-	name: '市辖区',
-	parentId: 341100
 }, {
 	code: 341102,
 	name: '琅琊区',
@@ -5868,10 +5460,6 @@ export const area = [{
 	name: '明光市',
 	parentId: 341100
 }, {
-	code: 341201,
-	name: '市辖区',
-	parentId: 341200
-}, {
 	code: 341202,
 	name: '颍州区',
 	parentId: 341200
@@ -5904,10 +5492,6 @@ export const area = [{
 	name: '界首市',
 	parentId: 341200
 }, {
-	code: 341301,
-	name: '市辖区',
-	parentId: 341300
-}, {
 	code: 341302,
 	name: '埇桥区',
 	parentId: 341300
@@ -5927,10 +5511,6 @@ export const area = [{
 	code: 341324,
 	name: '泗县',
 	parentId: 341300
-}, {
-	code: 341501,
-	name: '市辖区',
-	parentId: 341500
 }, {
 	code: 341502,
 	name: '金安区',
@@ -5960,10 +5540,6 @@ export const area = [{
 	name: '霍山县',
 	parentId: 341500
 }, {
-	code: 341601,
-	name: '市辖区',
-	parentId: 341600
-}, {
 	code: 341602,
 	name: '谯城区',
 	parentId: 341600
@@ -5980,10 +5556,6 @@ export const area = [{
 	name: '利辛县',
 	parentId: 341600
 }, {
-	code: 341701,
-	name: '市辖区',
-	parentId: 341700
-}, {
 	code: 341702,
 	name: '贵池区',
 	parentId: 341700
@@ -5999,10 +5571,6 @@ export const area = [{
 	code: 341723,
 	name: '青阳县',
 	parentId: 341700
-}, {
-	code: 341801,
-	name: '市辖区',
-	parentId: 341800
 }, {
 	code: 341802,
 	name: '宣州区',
@@ -6031,10 +5599,6 @@ export const area = [{
 	code: 341881,
 	name: '宁国市',
 	parentId: 341800
-}, {
-	code: 350101,
-	name: '市辖区',
-	parentId: 350100
 }, {
 	code: 350102,
 	name: '鼓楼区',
@@ -6088,10 +5652,6 @@ export const area = [{
 	name: '长乐市',
 	parentId: 350100
 }, {
-	code: 350201,
-	name: '市辖区',
-	parentId: 350200
-}, {
 	code: 350203,
 	name: '思明区',
 	parentId: 350200
@@ -6116,10 +5676,6 @@ export const area = [{
 	name: '翔安区',
 	parentId: 350200
 }, {
-	code: 350301,
-	name: '市辖区',
-	parentId: 350300
-}, {
 	code: 350302,
 	name: '城厢区',
 	parentId: 350300
@@ -6139,10 +5695,6 @@ export const area = [{
 	code: 350322,
 	name: '仙游县',
 	parentId: 350300
-}, {
-	code: 350401,
-	name: '市辖区',
-	parentId: 350400
 }, {
 	code: 350402,
 	name: '梅列区',
@@ -6192,10 +5744,6 @@ export const area = [{
 	name: '永安市',
 	parentId: 350400
 }, {
-	code: 350501,
-	name: '市辖区',
-	parentId: 350500
-}, {
 	code: 350502,
 	name: '鲤城区',
 	parentId: 350500
@@ -6244,10 +5792,6 @@ export const area = [{
 	name: '南安市',
 	parentId: 350500
 }, {
-	code: 350601,
-	name: '市辖区',
-	parentId: 350600
-}, {
 	code: 350602,
 	name: '芗城区',
 	parentId: 350600
@@ -6292,10 +5836,6 @@ export const area = [{
 	name: '龙海市',
 	parentId: 350600
 }, {
-	code: 350701,
-	name: '市辖区',
-	parentId: 350700
-}, {
 	code: 350702,
 	name: '延平区',
 	parentId: 350700
@@ -6336,10 +5876,6 @@ export const area = [{
 	name: '建阳市',
 	parentId: 350700
 }, {
-	code: 350801,
-	name: '市辖区',
-	parentId: 350800
-}, {
 	code: 350802,
 	name: '新罗区',
 	parentId: 350800
@@ -6367,10 +5903,6 @@ export const area = [{
 	code: 350881,
 	name: '漳平市',
 	parentId: 350800
-}, {
-	code: 350901,
-	name: '市辖区',
-	parentId: 350900
 }, {
 	code: 350902,
 	name: '蕉城区',
@@ -6408,10 +5940,6 @@ export const area = [{
 	name: '福鼎市',
 	parentId: 350900
 }, {
-	code: 360101,
-	name: '市辖区',
-	parentId: 360100
-}, {
 	code: 360102,
 	name: '东湖区',
 	parentId: 360100
@@ -6448,10 +5976,6 @@ export const area = [{
 	name: '进贤县',
 	parentId: 360100
 }, {
-	code: 360201,
-	name: '市辖区',
-	parentId: 360200
-}, {
 	code: 360202,
 	name: '昌江区',
 	parentId: 360200
@@ -6467,10 +5991,6 @@ export const area = [{
 	code: 360281,
 	name: '乐平市',
 	parentId: 360200
-}, {
-	code: 360301,
-	name: '市辖区',
-	parentId: 360300
 }, {
 	code: 360302,
 	name: '安源区',
@@ -6491,10 +6011,6 @@ export const area = [{
 	code: 360323,
 	name: '芦溪县',
 	parentId: 360300
-}, {
-	code: 360401,
-	name: '市辖区',
-	parentId: 360400
 }, {
 	code: 360402,
 	name: '庐山区',
@@ -6548,10 +6064,6 @@ export const area = [{
 	name: '共青城市',
 	parentId: 360400
 }, {
-	code: 360501,
-	name: '市辖区',
-	parentId: 360500
-}, {
 	code: 360502,
 	name: '渝水区',
 	parentId: 360500
@@ -6559,10 +6071,6 @@ export const area = [{
 	code: 360521,
 	name: '分宜县',
 	parentId: 360500
-}, {
-	code: 360601,
-	name: '市辖区',
-	parentId: 360600
 }, {
 	code: 360602,
 	name: '月湖区',
@@ -6575,10 +6083,6 @@ export const area = [{
 	code: 360681,
 	name: '贵溪市',
 	parentId: 360600
-}, {
-	code: 360701,
-	name: '市辖区',
-	parentId: 360700
 }, {
 	code: 360702,
 	name: '章贡区',
@@ -6652,10 +6156,6 @@ export const area = [{
 	name: '瑞金市',
 	parentId: 360700
 }, {
-	code: 360801,
-	name: '市辖区',
-	parentId: 360800
-}, {
 	code: 360802,
 	name: '吉州区',
 	parentId: 360800
@@ -6708,10 +6208,6 @@ export const area = [{
 	name: '井冈山市',
 	parentId: 360800
 }, {
-	code: 360901,
-	name: '市辖区',
-	parentId: 360900
-}, {
 	code: 360902,
 	name: '袁州区',
 	parentId: 360900
@@ -6751,10 +6247,6 @@ export const area = [{
 	code: 360983,
 	name: '高安市',
 	parentId: 360900
-}, {
-	code: 361001,
-	name: '市辖区',
-	parentId: 361000
 }, {
 	code: 361002,
 	name: '临川区',
@@ -6799,10 +6291,6 @@ export const area = [{
 	code: 361030,
 	name: '广昌县',
 	parentId: 361000
-}, {
-	code: 361101,
-	name: '市辖区',
-	parentId: 361100
 }, {
 	code: 361102,
 	name: '信州区',
@@ -6852,10 +6340,6 @@ export const area = [{
 	name: '德兴市',
 	parentId: 361100
 }, {
-	code: 370101,
-	name: '市辖区',
-	parentId: 370100
-}, {
 	code: 370102,
 	name: '历下区',
 	parentId: 370100
@@ -6895,10 +6379,6 @@ export const area = [{
 	code: 370181,
 	name: '章丘市',
 	parentId: 370100
-}, {
-	code: 370201,
-	name: '市辖区',
-	parentId: 370200
 }, {
 	code: 370202,
 	name: '市南区',
@@ -6940,10 +6420,6 @@ export const area = [{
 	name: '莱西市',
 	parentId: 370200
 }, {
-	code: 370301,
-	name: '市辖区',
-	parentId: 370300
-}, {
 	code: 370302,
 	name: '淄川区',
 	parentId: 370300
@@ -6976,10 +6452,6 @@ export const area = [{
 	name: '沂源县',
 	parentId: 370300
 }, {
-	code: 370401,
-	name: '市辖区',
-	parentId: 370400
-}, {
 	code: 370402,
 	name: '市中区',
 	parentId: 370400
@@ -7004,10 +6476,6 @@ export const area = [{
 	name: '滕州市',
 	parentId: 370400
 }, {
-	code: 370501,
-	name: '市辖区',
-	parentId: 370500
-}, {
 	code: 370502,
 	name: '东营区',
 	parentId: 370500
@@ -7027,10 +6495,6 @@ export const area = [{
 	code: 370523,
 	name: '广饶县',
 	parentId: 370500
-}, {
-	code: 370601,
-	name: '市辖区',
-	parentId: 370600
 }, {
 	code: 370602,
 	name: '芝罘区',
@@ -7080,10 +6544,6 @@ export const area = [{
 	name: '海阳市',
 	parentId: 370600
 }, {
-	code: 370701,
-	name: '市辖区',
-	parentId: 370700
-}, {
 	code: 370702,
 	name: '潍城区',
 	parentId: 370700
@@ -7132,10 +6592,6 @@ export const area = [{
 	name: '昌邑市',
 	parentId: 370700
 }, {
-	code: 370801,
-	name: '市辖区',
-	parentId: 370800
-}, {
 	code: 370811,
 	name: '任城区',
 	parentId: 370800
@@ -7180,10 +6636,6 @@ export const area = [{
 	name: '邹城市',
 	parentId: 370800
 }, {
-	code: 370901,
-	name: '市辖区',
-	parentId: 370900
-}, {
 	code: 370902,
 	name: '泰山区',
 	parentId: 370900
@@ -7208,10 +6660,6 @@ export const area = [{
 	name: '肥城市',
 	parentId: 370900
 }, {
-	code: 371001,
-	name: '市辖区',
-	parentId: 371000
-}, {
 	code: 371002,
 	name: '环翠区',
 	parentId: 371000
@@ -7227,10 +6675,6 @@ export const area = [{
 	code: 371083,
 	name: '乳山市',
 	parentId: 371000
-}, {
-	code: 371101,
-	name: '市辖区',
-	parentId: 371100
 }, {
 	code: 371102,
 	name: '东港区',
@@ -7248,10 +6692,6 @@ export const area = [{
 	name: '莒县',
 	parentId: 371100
 }, {
-	code: 371201,
-	name: '市辖区',
-	parentId: 371200
-}, {
 	code: 371202,
 	name: '莱城区',
 	parentId: 371200
@@ -7259,10 +6699,6 @@ export const area = [{
 	code: 371203,
 	name: '钢城区',
 	parentId: 371200
-}, {
-	code: 371301,
-	name: '市辖区',
-	parentId: 371300
 }, {
 	code: 371302,
 	name: '兰山区',
@@ -7312,10 +6748,6 @@ export const area = [{
 	name: '临沭县',
 	parentId: 371300
 }, {
-	code: 371401,
-	name: '市辖区',
-	parentId: 371400
-}, {
 	code: 371402,
 	name: '德城区',
 	parentId: 371400
@@ -7360,10 +6792,6 @@ export const area = [{
 	name: '禹城市',
 	parentId: 371400
 }, {
-	code: 371501,
-	name: '市辖区',
-	parentId: 371500
-}, {
 	code: 371502,
 	name: '东昌府区',
 	parentId: 371500
@@ -7396,10 +6824,6 @@ export const area = [{
 	name: '临清市',
 	parentId: 371500
 }, {
-	code: 371601,
-	name: '市辖区',
-	parentId: 371600
-}, {
 	code: 371602,
 	name: '滨城区',
 	parentId: 371600
@@ -7427,10 +6851,6 @@ export const area = [{
 	code: 371626,
 	name: '邹平县',
 	parentId: 371600
-}, {
-	code: 371701,
-	name: '市辖区',
-	parentId: 371700
 }, {
 	code: 371702,
 	name: '牡丹区',
@@ -7467,10 +6887,6 @@ export const area = [{
 	code: 371728,
 	name: '东明县',
 	parentId: 371700
-}, {
-	code: 410101,
-	name: '市辖区',
-	parentId: 410100
 }, {
 	code: 410102,
 	name: '中原区',
@@ -7520,10 +6936,6 @@ export const area = [{
 	name: '登封市',
 	parentId: 410100
 }, {
-	code: 410201,
-	name: '市辖区',
-	parentId: 410200
-}, {
 	code: 410202,
 	name: '龙亭区',
 	parentId: 410200
@@ -7563,10 +6975,6 @@ export const area = [{
 	code: 410225,
 	name: '兰考县',
 	parentId: 410200
-}, {
-	code: 410301,
-	name: '市辖区',
-	parentId: 410300
 }, {
 	code: 410302,
 	name: '老城区',
@@ -7628,10 +7036,6 @@ export const area = [{
 	name: '偃师市',
 	parentId: 410300
 }, {
-	code: 410401,
-	name: '市辖区',
-	parentId: 410400
-}, {
 	code: 410402,
 	name: '新华区',
 	parentId: 410400
@@ -7672,10 +7076,6 @@ export const area = [{
 	name: '汝州市',
 	parentId: 410400
 }, {
-	code: 410501,
-	name: '市辖区',
-	parentId: 410500
-}, {
 	code: 410502,
 	name: '文峰区',
 	parentId: 410500
@@ -7712,10 +7112,6 @@ export const area = [{
 	name: '林州市',
 	parentId: 410500
 }, {
-	code: 410601,
-	name: '市辖区',
-	parentId: 410600
-}, {
 	code: 410602,
 	name: '鹤山区',
 	parentId: 410600
@@ -7735,10 +7131,6 @@ export const area = [{
 	code: 410622,
 	name: '淇县',
 	parentId: 410600
-}, {
-	code: 410701,
-	name: '市辖区',
-	parentId: 410700
 }, {
 	code: 410702,
 	name: '红旗区',
@@ -7788,10 +7180,6 @@ export const area = [{
 	name: '辉县市',
 	parentId: 410700
 }, {
-	code: 410801,
-	name: '市辖区',
-	parentId: 410800
-}, {
 	code: 410802,
 	name: '解放区',
 	parentId: 410800
@@ -7832,10 +7220,6 @@ export const area = [{
 	name: '孟州市',
 	parentId: 410800
 }, {
-	code: 410901,
-	name: '市辖区',
-	parentId: 410900
-}, {
 	code: 410902,
 	name: '华龙区',
 	parentId: 410900
@@ -7859,10 +7243,6 @@ export const area = [{
 	code: 410928,
 	name: '濮阳县',
 	parentId: 410900
-}, {
-	code: 411001,
-	name: '市辖区',
-	parentId: 411000
 }, {
 	code: 411002,
 	name: '魏都区',
@@ -7888,10 +7268,6 @@ export const area = [{
 	name: '长葛市',
 	parentId: 411000
 }, {
-	code: 411101,
-	name: '市辖区',
-	parentId: 411100
-}, {
 	code: 411102,
 	name: '源汇区',
 	parentId: 411100
@@ -7911,10 +7287,6 @@ export const area = [{
 	code: 411122,
 	name: '临颍县',
 	parentId: 411100
-}, {
-	code: 411201,
-	name: '市辖区',
-	parentId: 411200
 }, {
 	code: 411202,
 	name: '湖滨区',
@@ -7939,10 +7311,6 @@ export const area = [{
 	code: 411282,
 	name: '灵宝市',
 	parentId: 411200
-}, {
-	code: 411301,
-	name: '市辖区',
-	parentId: 411300
 }, {
 	code: 411302,
 	name: '宛城区',
@@ -7996,10 +7364,6 @@ export const area = [{
 	name: '邓州市',
 	parentId: 411300
 }, {
-	code: 411401,
-	name: '市辖区',
-	parentId: 411400
-}, {
 	code: 411402,
 	name: '梁园区',
 	parentId: 411400
@@ -8035,10 +7399,6 @@ export const area = [{
 	code: 411481,
 	name: '永城市',
 	parentId: 411400
-}, {
-	code: 411501,
-	name: '市辖区',
-	parentId: 411500
 }, {
 	code: 411502,
 	name: '浉河区',
@@ -8080,10 +7440,6 @@ export const area = [{
 	name: '息县',
 	parentId: 411500
 }, {
-	code: 411601,
-	name: '市辖区',
-	parentId: 411600
-}, {
 	code: 411602,
 	name: '川汇区',
 	parentId: 411600
@@ -8123,10 +7479,6 @@ export const area = [{
 	code: 411681,
 	name: '项城市',
 	parentId: 411600
-}, {
-	code: 411701,
-	name: '市辖区',
-	parentId: 411700
 }, {
 	code: 411702,
 	name: '驿城区',
@@ -8171,10 +7523,6 @@ export const area = [{
 	code: 419001,
 	name: '济源市',
 	parentId: 419000
-}, {
-	code: 420101,
-	name: '市辖区',
-	parentId: 420100
 }, {
 	code: 420102,
 	name: '江岸区',
@@ -8228,10 +7576,6 @@ export const area = [{
 	name: '新洲区',
 	parentId: 420100
 }, {
-	code: 420201,
-	name: '市辖区',
-	parentId: 420200
-}, {
 	code: 420202,
 	name: '黄石港区',
 	parentId: 420200
@@ -8255,10 +7599,6 @@ export const area = [{
 	code: 420281,
 	name: '大冶市',
 	parentId: 420200
-}, {
-	code: 420301,
-	name: '市辖区',
-	parentId: 420300
 }, {
 	code: 420302,
 	name: '茅箭区',
@@ -8291,10 +7631,6 @@ export const area = [{
 	code: 420381,
 	name: '丹江口市',
 	parentId: 420300
-}, {
-	code: 420501,
-	name: '市辖区',
-	parentId: 420500
 }, {
 	code: 420502,
 	name: '西陵区',
@@ -8348,10 +7684,6 @@ export const area = [{
 	name: '枝江市',
 	parentId: 420500
 }, {
-	code: 420601,
-	name: '市辖区',
-	parentId: 420600
-}, {
 	code: 420602,
 	name: '襄城区',
 	parentId: 420600
@@ -8388,10 +7720,6 @@ export const area = [{
 	name: '宜城市',
 	parentId: 420600
 }, {
-	code: 420701,
-	name: '市辖区',
-	parentId: 420700
-}, {
 	code: 420702,
 	name: '梁子湖区',
 	parentId: 420700
@@ -8403,10 +7731,6 @@ export const area = [{
 	code: 420704,
 	name: '鄂城区',
 	parentId: 420700
-}, {
-	code: 420801,
-	name: '市辖区',
-	parentId: 420800
 }, {
 	code: 420802,
 	name: '东宝区',
@@ -8427,10 +7751,6 @@ export const area = [{
 	code: 420881,
 	name: '钟祥市',
 	parentId: 420800
-}, {
-	code: 420901,
-	name: '市辖区',
-	parentId: 420900
 }, {
 	code: 420902,
 	name: '孝南区',
@@ -8459,10 +7779,6 @@ export const area = [{
 	code: 420984,
 	name: '汉川市',
 	parentId: 420900
-}, {
-	code: 421001,
-	name: '市辖区',
-	parentId: 421000
 }, {
 	code: 421002,
 	name: '沙市区',
@@ -8495,10 +7811,6 @@ export const area = [{
 	code: 421087,
 	name: '松滋市',
 	parentId: 421000
-}, {
-	code: 421101,
-	name: '市辖区',
-	parentId: 421100
 }, {
 	code: 421102,
 	name: '黄州区',
@@ -8540,10 +7852,6 @@ export const area = [{
 	name: '武穴市',
 	parentId: 421100
 }, {
-	code: 421201,
-	name: '市辖区',
-	parentId: 421200
-}, {
 	code: 421202,
 	name: '咸安区',
 	parentId: 421200
@@ -8567,10 +7875,6 @@ export const area = [{
 	code: 421281,
 	name: '赤壁市',
 	parentId: 421200
-}, {
-	code: 421301,
-	name: '市辖区',
-	parentId: 421300
 }, {
 	code: 421303,
 	name: '曾都区',
@@ -8632,10 +7936,6 @@ export const area = [{
 	name: '神农架林区',
 	parentId: 429000
 }, {
-	code: 430101,
-	name: '市辖区',
-	parentId: 430100
-}, {
 	code: 430102,
 	name: '芙蓉区',
 	parentId: 430100
@@ -8671,10 +7971,6 @@ export const area = [{
 	code: 430181,
 	name: '浏阳市',
 	parentId: 430100
-}, {
-	code: 430201,
-	name: '市辖区',
-	parentId: 430200
 }, {
 	code: 430202,
 	name: '荷塘区',
@@ -8712,10 +8008,6 @@ export const area = [{
 	name: '醴陵市',
 	parentId: 430200
 }, {
-	code: 430301,
-	name: '市辖区',
-	parentId: 430300
-}, {
 	code: 430302,
 	name: '雨湖区',
 	parentId: 430300
@@ -8735,10 +8027,6 @@ export const area = [{
 	code: 430382,
 	name: '韶山市',
 	parentId: 430300
-}, {
-	code: 430401,
-	name: '市辖区',
-	parentId: 430400
 }, {
 	code: 430405,
 	name: '珠晖区',
@@ -8788,10 +8076,6 @@ export const area = [{
 	name: '常宁市',
 	parentId: 430400
 }, {
-	code: 430501,
-	name: '市辖区',
-	parentId: 430500
-}, {
 	code: 430502,
 	name: '双清区',
 	parentId: 430500
@@ -8840,10 +8124,6 @@ export const area = [{
 	name: '武冈市',
 	parentId: 430500
 }, {
-	code: 430601,
-	name: '市辖区',
-	parentId: 430600
-}, {
 	code: 430602,
 	name: '岳阳楼区',
 	parentId: 430600
@@ -8879,10 +8159,6 @@ export const area = [{
 	code: 430682,
 	name: '临湘市',
 	parentId: 430600
-}, {
-	code: 430701,
-	name: '市辖区',
-	parentId: 430700
 }, {
 	code: 430702,
 	name: '武陵区',
@@ -8920,10 +8196,6 @@ export const area = [{
 	name: '津市市',
 	parentId: 430700
 }, {
-	code: 430801,
-	name: '市辖区',
-	parentId: 430800
-}, {
 	code: 430802,
 	name: '永定区',
 	parentId: 430800
@@ -8939,10 +8211,6 @@ export const area = [{
 	code: 430822,
 	name: '桑植县',
 	parentId: 430800
-}, {
-	code: 430901,
-	name: '市辖区',
-	parentId: 430900
 }, {
 	code: 430902,
 	name: '资阳区',
@@ -8967,10 +8235,6 @@ export const area = [{
 	code: 430981,
 	name: '沅江市',
 	parentId: 430900
-}, {
-	code: 431001,
-	name: '市辖区',
-	parentId: 431000
 }, {
 	code: 431002,
 	name: '北湖区',
@@ -9016,10 +8280,6 @@ export const area = [{
 	name: '资兴市',
 	parentId: 431000
 }, {
-	code: 431101,
-	name: '市辖区',
-	parentId: 431100
-}, {
 	code: 431102,
 	name: '零陵区',
 	parentId: 431100
@@ -9063,10 +8323,6 @@ export const area = [{
 	code: 431129,
 	name: '江华瑶族自治县',
 	parentId: 431100
-}, {
-	code: 431201,
-	name: '市辖区',
-	parentId: 431200
 }, {
 	code: 431202,
 	name: '鹤城区',
@@ -9115,10 +8371,6 @@ export const area = [{
 	code: 431281,
 	name: '洪江市',
 	parentId: 431200
-}, {
-	code: 431301,
-	name: '市辖区',
-	parentId: 431300
 }, {
 	code: 431302,
 	name: '娄星区',
@@ -9172,10 +8424,6 @@ export const area = [{
 	name: '龙山县',
 	parentId: 433100
 }, {
-	code: 440101,
-	name: '市辖区',
-	parentId: 440100
-}, {
 	code: 440103,
 	name: '荔湾区',
 	parentId: 440100
@@ -9224,10 +8472,6 @@ export const area = [{
 	name: '增城区',
 	parentId: 440100
 }, {
-	code: 440201,
-	name: '市辖区',
-	parentId: 440200
-}, {
 	code: 440203,
 	name: '武江区',
 	parentId: 440200
@@ -9268,10 +8512,6 @@ export const area = [{
 	name: '南雄市',
 	parentId: 440200
 }, {
-	code: 440301,
-	name: '市辖区',
-	parentId: 440300
-}, {
 	code: 440303,
 	name: '罗湖区',
 	parentId: 440300
@@ -9296,10 +8536,6 @@ export const area = [{
 	name: '盐田区',
 	parentId: 440300
 }, {
-	code: 440401,
-	name: '市辖区',
-	parentId: 440400
-}, {
 	code: 440402,
 	name: '香洲区',
 	parentId: 440400
@@ -9311,10 +8547,6 @@ export const area = [{
 	code: 440404,
 	name: '金湾区',
 	parentId: 440400
-}, {
-	code: 440501,
-	name: '市辖区',
-	parentId: 440500
 }, {
 	code: 440507,
 	name: '龙湖区',
@@ -9344,10 +8576,6 @@ export const area = [{
 	name: '南澳县',
 	parentId: 440500
 }, {
-	code: 440601,
-	name: '市辖区',
-	parentId: 440600
-}, {
 	code: 440604,
 	name: '禅城区',
 	parentId: 440600
@@ -9367,10 +8595,6 @@ export const area = [{
 	code: 440608,
 	name: '高明区',
 	parentId: 440600
-}, {
-	code: 440701,
-	name: '市辖区',
-	parentId: 440700
 }, {
 	code: 440703,
 	name: '蓬江区',
@@ -9399,10 +8623,6 @@ export const area = [{
 	code: 440785,
 	name: '恩平市',
 	parentId: 440700
-}, {
-	code: 440801,
-	name: '市辖区',
-	parentId: 440800
 }, {
 	code: 440802,
 	name: '赤坎区',
@@ -9440,10 +8660,6 @@ export const area = [{
 	name: '吴川市',
 	parentId: 440800
 }, {
-	code: 440901,
-	name: '市辖区',
-	parentId: 440900
-}, {
 	code: 440902,
 	name: '茂南区',
 	parentId: 440900
@@ -9463,10 +8679,6 @@ export const area = [{
 	code: 440983,
 	name: '信宜市',
 	parentId: 440900
-}, {
-	code: 441201,
-	name: '市辖区',
-	parentId: 441200
 }, {
 	code: 441202,
 	name: '端州区',
@@ -9500,10 +8712,6 @@ export const area = [{
 	name: '四会市',
 	parentId: 441200
 }, {
-	code: 441301,
-	name: '市辖区',
-	parentId: 441300
-}, {
 	code: 441302,
 	name: '惠城区',
 	parentId: 441300
@@ -9523,10 +8731,6 @@ export const area = [{
 	code: 441324,
 	name: '龙门县',
 	parentId: 441300
-}, {
-	code: 441401,
-	name: '市辖区',
-	parentId: 441400
 }, {
 	code: 441402,
 	name: '梅江区',
@@ -9560,10 +8764,6 @@ export const area = [{
 	name: '兴宁市',
 	parentId: 441400
 }, {
-	code: 441501,
-	name: '市辖区',
-	parentId: 441500
-}, {
 	code: 441502,
 	name: '城区',
 	parentId: 441500
@@ -9579,10 +8779,6 @@ export const area = [{
 	code: 441581,
 	name: '陆丰市',
 	parentId: 441500
-}, {
-	code: 441601,
-	name: '市辖区',
-	parentId: 441600
 }, {
 	code: 441602,
 	name: '源城区',
@@ -9608,10 +8804,6 @@ export const area = [{
 	name: '东源县',
 	parentId: 441600
 }, {
-	code: 441701,
-	name: '市辖区',
-	parentId: 441700
-}, {
 	code: 441702,
 	name: '江城区',
 	parentId: 441700
@@ -9627,10 +8819,6 @@ export const area = [{
 	code: 441781,
 	name: '阳春市',
 	parentId: 441700
-}, {
-	code: 441801,
-	name: '市辖区',
-	parentId: 441800
 }, {
 	code: 441802,
 	name: '清城区',
@@ -9664,9 +8852,237 @@ export const area = [{
 	name: '连州市',
 	parentId: 441800
 }, {
-	code: 445101,
-	name: '市辖区',
-	parentId: 445100
+	code: 441901,
+	name: '中堂镇',
+	parentId: 441900
+}, {
+	code: 441902,
+	name: '南城区',
+	parentId: 441900
+}, {
+	code: 441903,
+	name: '沙田镇',
+	parentId: 441900
+}, {
+	code: 441904,
+	name: '长安镇',
+	parentId: 441900
+}, {
+	code: 441905,
+	name: '东坑镇',
+	parentId: 441900
+}, {
+	code: 441906,
+	name: '樟木头镇',
+	parentId: 441900
+}, {
+	code: 441907,
+	name: '莞城区',
+	parentId: 441900
+}, {
+	code: 441908,
+	name: '石龙镇',
+	parentId: 441900
+}, {
+	code: 441909,
+	name: '桥头镇',
+	parentId: 441900
+}, {
+	code: 441910,
+	name: '万江区',
+	parentId: 441900
+}, {
+	code: 441911,
+	name: '麻涌镇',
+	parentId: 441900
+}, {
+	code: 441912,
+	name: '虎门镇',
+	parentId: 441900
+}, {
+	code: 441913,
+	name: '谢岗镇',
+	parentId: 441900
+}, {
+	code: 441914,
+	name: '石碣镇',
+	parentId: 441900
+}, {
+	code: 441915,
+	name: '茶山镇',
+	parentId: 441900
+}, {
+	code: 441916,
+	name: '东城区',
+	parentId: 441900
+}, {
+	code: 441917,
+	name: '洪梅镇',
+	parentId: 441900
+}, {
+	code: 441918,
+	name: '道滘镇',
+	parentId: 441900
+}, {
+	code: 441919,
+	name: '高埗镇',
+	parentId: 441900
+}, {
+	code: 441920,
+	name: '企石镇',
+	parentId: 441900
+}, {
+	code: 441921,
+	name: '凤岗镇',
+	parentId: 441900
+}, {
+	code: 441922,
+	name: '大岭山镇',
+	parentId: 441900
+}, {
+	code: 441923,
+	name: '松山湖',
+	parentId: 441900
+}, {
+	code: 441924,
+	name: '清溪镇',
+	parentId: 441900
+}, {
+	code: 441925,
+	name: '望牛墩镇',
+	parentId: 441900
+}, {
+	code: 441926,
+	name: '厚街镇',
+	parentId: 441900
+}, {
+	code: 441927,
+	name: '常平镇',
+	parentId: 441900
+}, {
+	code: 441928,
+	name: '寮步镇',
+	parentId: 441900
+}, {
+	code: 441929,
+	name: '石排镇',
+	parentId: 441900
+}, {
+	code: 441930,
+	name: '横沥镇',
+	parentId: 441900
+}, {
+	code: 441931,
+	name: '塘厦镇',
+	parentId: 441900
+}, {
+	code: 441932,
+	name: '黄江镇',
+	parentId: 441900
+}, {
+	code: 441933,
+	name: '大朗镇',
+	parentId: 441900
+}, {
+	code: 442001,
+	name: '南头镇',
+	parentId: 442000
+}, {
+	code: 442002,
+	name: '神湾镇',
+	parentId: 442000
+}, {
+	code: 442003,
+	name: '东凤镇',
+	parentId: 442000
+}, {
+	code: 442004,
+	name: '五桂山镇',
+	parentId: 442000
+}, {
+	code: 442005,
+	name: '黄圃镇',
+	parentId: 442000
+}, {
+	code: 442006,
+	name: '小榄镇',
+	parentId: 442000
+}, {
+	code: 442007,
+	name: '石岐区街道',
+	parentId: 442000
+}, {
+	code: 442008,
+	name: '横栏镇',
+	parentId: 442000
+}, {
+	code: 442009,
+	name: '三角镇',
+	parentId: 442000
+}, {
+	code: 442010,
+	name: '三乡镇',
+	parentId: 442000
+}, {
+	code: 442011,
+	name: '港口镇',
+	parentId: 442000
+}, {
+	code: 442012,
+	name: '沙溪镇',
+	parentId: 442000
+}, {
+	code: 442013,
+	name: '板芙镇',
+	parentId: 442000
+}, {
+	code: 442014,
+	name: '沙朗镇',
+	parentId: 442000
+}, {
+	code: 442015,
+	name: '东升镇',
+	parentId: 442000
+}, {
+	code: 442016,
+	name: '阜沙镇',
+	parentId: 442000
+}, {
+	code: 442017,
+	name: '民众镇',
+	parentId: 442000
+}, {
+	code: 442018,
+	name: '东区街道',
+	parentId: 442000
+}, {
+	code: 442019,
+	name: '火炬开发区',
+	parentId: 442000
+}, {
+	code: 442020,
+	name: '西区街道',
+	parentId: 442000
+}, {
+	code: 442021,
+	name: '南区街道',
+	parentId: 442000
+}, {
+	code: 442022,
+	name: '古镇',
+	parentId: 442000
+}, {
+	code: 442023,
+	name: '坦洲镇',
+	parentId: 442000
+}, {
+	code: 442024,
+	name: '大涌镇',
+	parentId: 442000
+}, {
+	code: 442025,
+	name: '南朗镇',
+	parentId: 442000
 }, {
 	code: 445102,
 	name: '湘桥区',
@@ -9679,10 +9095,6 @@ export const area = [{
 	code: 445122,
 	name: '饶平县',
 	parentId: 445100
-}, {
-	code: 445201,
-	name: '市辖区',
-	parentId: 445200
 }, {
 	code: 445202,
 	name: '榕城区',
@@ -9704,10 +9116,6 @@ export const area = [{
 	name: '普宁市',
 	parentId: 445200
 }, {
-	code: 445301,
-	name: '市辖区',
-	parentId: 445300
-}, {
 	code: 445302,
 	name: '云城区',
 	parentId: 445300
@@ -9727,10 +9135,6 @@ export const area = [{
 	code: 445381,
 	name: '罗定市',
 	parentId: 445300
-}, {
-	code: 450101,
-	name: '市辖区',
-	parentId: 450100
 }, {
 	code: 450102,
 	name: '兴宁区',
@@ -9780,10 +9184,6 @@ export const area = [{
 	name: '横县',
 	parentId: 450100
 }, {
-	code: 450201,
-	name: '市辖区',
-	parentId: 450200
-}, {
 	code: 450202,
 	name: '城中区',
 	parentId: 450200
@@ -9823,10 +9223,6 @@ export const area = [{
 	code: 450226,
 	name: '三江侗族自治县',
 	parentId: 450200
-}, {
-	code: 450301,
-	name: '市辖区',
-	parentId: 450300
 }, {
 	code: 450302,
 	name: '秀峰区',
@@ -9896,10 +9292,6 @@ export const area = [{
 	name: '恭城瑶族自治县',
 	parentId: 450300
 }, {
-	code: 450401,
-	name: '市辖区',
-	parentId: 450400
-}, {
 	code: 450403,
 	name: '万秀区',
 	parentId: 450400
@@ -9928,10 +9320,6 @@ export const area = [{
 	name: '岑溪市',
 	parentId: 450400
 }, {
-	code: 450501,
-	name: '市辖区',
-	parentId: 450500
-}, {
 	code: 450502,
 	name: '海城区',
 	parentId: 450500
@@ -9947,10 +9335,6 @@ export const area = [{
 	code: 450521,
 	name: '合浦县',
 	parentId: 450500
-}, {
-	code: 450601,
-	name: '市辖区',
-	parentId: 450600
 }, {
 	code: 450602,
 	name: '港口区',
@@ -9968,10 +9352,6 @@ export const area = [{
 	name: '东兴市',
 	parentId: 450600
 }, {
-	code: 450701,
-	name: '市辖区',
-	parentId: 450700
-}, {
 	code: 450702,
 	name: '钦南区',
 	parentId: 450700
@@ -9987,10 +9367,6 @@ export const area = [{
 	code: 450722,
 	name: '浦北县',
 	parentId: 450700
-}, {
-	code: 450801,
-	name: '市辖区',
-	parentId: 450800
 }, {
 	code: 450802,
 	name: '港北区',
@@ -10011,10 +9387,6 @@ export const area = [{
 	code: 450881,
 	name: '桂平市',
 	parentId: 450800
-}, {
-	code: 450901,
-	name: '市辖区',
-	parentId: 450900
 }, {
 	code: 450902,
 	name: '玉州区',
@@ -10043,10 +9415,6 @@ export const area = [{
 	code: 450981,
 	name: '北流市',
 	parentId: 450900
-}, {
-	code: 451001,
-	name: '市辖区',
-	parentId: 451000
 }, {
 	code: 451002,
 	name: '右江区',
@@ -10096,10 +9464,6 @@ export const area = [{
 	name: '隆林各族自治县',
 	parentId: 451000
 }, {
-	code: 451101,
-	name: '市辖区',
-	parentId: 451100
-}, {
 	code: 451102,
 	name: '八步区',
 	parentId: 451100
@@ -10115,10 +9479,6 @@ export const area = [{
 	code: 451123,
 	name: '富川瑶族自治县',
 	parentId: 451100
-}, {
-	code: 451201,
-	name: '市辖区',
-	parentId: 451200
 }, {
 	code: 451202,
 	name: '金城江区',
@@ -10164,10 +9524,6 @@ export const area = [{
 	name: '宜州市',
 	parentId: 451200
 }, {
-	code: 451301,
-	name: '市辖区',
-	parentId: 451300
-}, {
 	code: 451302,
 	name: '兴宾区',
 	parentId: 451300
@@ -10191,10 +9547,6 @@ export const area = [{
 	code: 451381,
 	name: '合山市',
 	parentId: 451300
-}, {
-	code: 451401,
-	name: '市辖区',
-	parentId: 451400
 }, {
 	code: 451402,
 	name: '江州区',
@@ -10224,10 +9576,6 @@ export const area = [{
 	name: '凭祥市',
 	parentId: 451400
 }, {
-	code: 460101,
-	name: '市辖区',
-	parentId: 460100
-}, {
 	code: 460105,
 	name: '秀英区',
 	parentId: 460100
@@ -10244,10 +9592,6 @@ export const area = [{
 	name: '美兰区',
 	parentId: 460100
 }, {
-	code: 460201,
-	name: '市辖区',
-	parentId: 460200
-}, {
 	code: 460202,
 	name: '海棠区',
 	parentId: 460200
@@ -10263,6 +9607,18 @@ export const area = [{
 	code: 460205,
 	name: '崖州区',
 	parentId: 460200
+}, {
+	code: 460301,
+	name: '西沙群岛',
+	parentId: 460300
+}, {
+	code: 460302,
+	name: '中沙群岛',
+	parentId: 460300
+}, {
+	code: 460303,
+	name: '南沙群岛及其附属岛屿',
+	parentId: 460300
 }, {
 	code: 469001,
 	name: '五指山市',
@@ -10480,10 +9836,6 @@ export const area = [{
 	name: '彭水苗族土家族自治县',
 	parentId: 500200
 }, {
-	code: 510101,
-	name: '市辖区',
-	parentId: 510100
-}, {
 	code: 510104,
 	name: '锦江区',
 	parentId: 510100
@@ -10560,10 +9912,6 @@ export const area = [{
 	name: '崇州市',
 	parentId: 510100
 }, {
-	code: 510301,
-	name: '市辖区',
-	parentId: 510300
-}, {
 	code: 510302,
 	name: '自流井区',
 	parentId: 510300
@@ -10588,10 +9936,6 @@ export const area = [{
 	name: '富顺县',
 	parentId: 510300
 }, {
-	code: 510401,
-	name: '市辖区',
-	parentId: 510400
-}, {
 	code: 510402,
 	name: '东区',
 	parentId: 510400
@@ -10611,10 +9955,6 @@ export const area = [{
 	code: 510422,
 	name: '盐边县',
 	parentId: 510400
-}, {
-	code: 510501,
-	name: '市辖区',
-	parentId: 510500
 }, {
 	code: 510502,
 	name: '江阳区',
@@ -10644,10 +9984,6 @@ export const area = [{
 	name: '古蔺县',
 	parentId: 510500
 }, {
-	code: 510601,
-	name: '市辖区',
-	parentId: 510600
-}, {
 	code: 510603,
 	name: '旌阳区',
 	parentId: 510600
@@ -10671,10 +10007,6 @@ export const area = [{
 	code: 510683,
 	name: '绵竹市',
 	parentId: 510600
-}, {
-	code: 510701,
-	name: '市辖区',
-	parentId: 510700
 }, {
 	code: 510703,
 	name: '涪城区',
@@ -10712,10 +10044,6 @@ export const area = [{
 	name: '江油市',
 	parentId: 510700
 }, {
-	code: 510801,
-	name: '市辖区',
-	parentId: 510800
-}, {
 	code: 510802,
 	name: '利州区',
 	parentId: 510800
@@ -10744,10 +10072,6 @@ export const area = [{
 	name: '苍溪县',
 	parentId: 510800
 }, {
-	code: 510901,
-	name: '市辖区',
-	parentId: 510900
-}, {
 	code: 510903,
 	name: '船山区',
 	parentId: 510900
@@ -10768,10 +10092,6 @@ export const area = [{
 	name: '大英县',
 	parentId: 510900
 }, {
-	code: 511001,
-	name: '市辖区',
-	parentId: 511000
-}, {
 	code: 511002,
 	name: '市中区',
 	parentId: 511000
@@ -10791,10 +10111,6 @@ export const area = [{
 	code: 511028,
 	name: '隆昌县',
 	parentId: 511000
-}, {
-	code: 511101,
-	name: '市辖区',
-	parentId: 511100
 }, {
 	code: 511102,
 	name: '市中区',
@@ -10840,10 +10156,6 @@ export const area = [{
 	name: '峨眉山市',
 	parentId: 511100
 }, {
-	code: 511301,
-	name: '市辖区',
-	parentId: 511300
-}, {
 	code: 511302,
 	name: '顺庆区',
 	parentId: 511300
@@ -10880,10 +10192,6 @@ export const area = [{
 	name: '阆中市',
 	parentId: 511300
 }, {
-	code: 511401,
-	name: '市辖区',
-	parentId: 511400
-}, {
 	code: 511402,
 	name: '东坡区',
 	parentId: 511400
@@ -10907,10 +10215,6 @@ export const area = [{
 	code: 511425,
 	name: '青神县',
 	parentId: 511400
-}, {
-	code: 511501,
-	name: '市辖区',
-	parentId: 511500
 }, {
 	code: 511502,
 	name: '翠屏区',
@@ -10952,10 +10256,6 @@ export const area = [{
 	name: '屏山县',
 	parentId: 511500
 }, {
-	code: 511601,
-	name: '市辖区',
-	parentId: 511600
-}, {
 	code: 511602,
 	name: '广安区',
 	parentId: 511600
@@ -10979,10 +10279,6 @@ export const area = [{
 	code: 511681,
 	name: '华蓥市',
 	parentId: 511600
-}, {
-	code: 511701,
-	name: '市辖区',
-	parentId: 511700
 }, {
 	code: 511702,
 	name: '通川区',
@@ -11011,10 +10307,6 @@ export const area = [{
 	code: 511781,
 	name: '万源市',
 	parentId: 511700
-}, {
-	code: 511801,
-	name: '市辖区',
-	parentId: 511800
 }, {
 	code: 511802,
 	name: '雨城区',
@@ -11048,10 +10340,6 @@ export const area = [{
 	name: '宝兴县',
 	parentId: 511800
 }, {
-	code: 511901,
-	name: '市辖区',
-	parentId: 511900
-}, {
 	code: 511902,
 	name: '巴州区',
 	parentId: 511900
@@ -11071,10 +10359,6 @@ export const area = [{
 	code: 511923,
 	name: '平昌县',
 	parentId: 511900
-}, {
-	code: 512001,
-	name: '市辖区',
-	parentId: 512000
 }, {
 	code: 512002,
 	name: '雁江区',
@@ -11284,10 +10568,6 @@ export const area = [{
 	name: '雷波县',
 	parentId: 513400
 }, {
-	code: 520101,
-	name: '市辖区',
-	parentId: 520100
-}, {
 	code: 520102,
 	name: '南明区',
 	parentId: 520100
@@ -11343,10 +10623,6 @@ export const area = [{
 	code: 520222,
 	name: '盘县',
 	parentId: 520200
-}, {
-	code: 520301,
-	name: '市辖区',
-	parentId: 520300
 }, {
 	code: 520302,
 	name: '红花岗区',
@@ -11404,10 +10680,6 @@ export const area = [{
 	name: '仁怀市',
 	parentId: 520300
 }, {
-	code: 520401,
-	name: '市辖区',
-	parentId: 520400
-}, {
 	code: 520402,
 	name: '西秀区',
 	parentId: 520400
@@ -11431,10 +10703,6 @@ export const area = [{
 	code: 520425,
 	name: '紫云苗族布依族自治县',
 	parentId: 520400
-}, {
-	code: 520501,
-	name: '市辖区',
-	parentId: 520500
 }, {
 	code: 520502,
 	name: '七星关区',
@@ -11467,10 +10735,6 @@ export const area = [{
 	code: 520527,
 	name: '赫章县',
 	parentId: 520500
-}, {
-	code: 520601,
-	name: '市辖区',
-	parentId: 520600
 }, {
 	code: 520602,
 	name: '碧江区',
@@ -11656,10 +10920,6 @@ export const area = [{
 	name: '三都水族自治县',
 	parentId: 522700
 }, {
-	code: 530101,
-	name: '市辖区',
-	parentId: 530100
-}, {
 	code: 530102,
 	name: '五华区',
 	parentId: 530100
@@ -11716,10 +10976,6 @@ export const area = [{
 	name: '安宁市',
 	parentId: 530100
 }, {
-	code: 530301,
-	name: '市辖区',
-	parentId: 530300
-}, {
 	code: 530302,
 	name: '麒麟区',
 	parentId: 530300
@@ -11755,10 +11011,6 @@ export const area = [{
 	code: 530381,
 	name: '宣威市',
 	parentId: 530300
-}, {
-	code: 530401,
-	name: '市辖区',
-	parentId: 530400
 }, {
 	code: 530402,
 	name: '红塔区',
@@ -11796,10 +11048,6 @@ export const area = [{
 	name: '元江哈尼族彝族傣族自治县',
 	parentId: 530400
 }, {
-	code: 530501,
-	name: '市辖区',
-	parentId: 530500
-}, {
 	code: 530502,
 	name: '隆阳区',
 	parentId: 530500
@@ -11819,10 +11067,6 @@ export const area = [{
 	code: 530524,
 	name: '昌宁县',
 	parentId: 530500
-}, {
-	code: 530601,
-	name: '市辖区',
-	parentId: 530600
 }, {
 	code: 530602,
 	name: '昭阳区',
@@ -11868,10 +11112,6 @@ export const area = [{
 	name: '水富县',
 	parentId: 530600
 }, {
-	code: 530701,
-	name: '市辖区',
-	parentId: 530700
-}, {
 	code: 530702,
 	name: '古城区',
 	parentId: 530700
@@ -11891,10 +11131,6 @@ export const area = [{
 	code: 530724,
 	name: '宁蒗彝族自治县',
 	parentId: 530700
-}, {
-	code: 530801,
-	name: '市辖区',
-	parentId: 530800
 }, {
 	code: 530802,
 	name: '思茅区',
@@ -11935,10 +11171,6 @@ export const area = [{
 	code: 530829,
 	name: '西盟佤族自治县',
 	parentId: 530800
-}, {
-	code: 530901,
-	name: '市辖区',
-	parentId: 530900
 }, {
 	code: 530902,
 	name: '临翔区',
@@ -12203,10 +11435,6 @@ export const area = [{
 	code: 533423,
 	name: '维西傈僳族自治县',
 	parentId: 533400
-}, {
-	code: 540101,
-	name: '市辖区',
-	parentId: 540100
 }, {
 	code: 540102,
 	name: '城关区',
@@ -12504,10 +11732,6 @@ export const area = [{
 	name: '朗县',
 	parentId: 542600
 }, {
-	code: 610101,
-	name: '市辖区',
-	parentId: 610100
-}, {
 	code: 610102,
 	name: '新城区',
 	parentId: 610100
@@ -12560,10 +11784,6 @@ export const area = [{
 	name: '高陵县',
 	parentId: 610100
 }, {
-	code: 610201,
-	name: '市辖区',
-	parentId: 610200
-}, {
 	code: 610202,
 	name: '王益区',
 	parentId: 610200
@@ -12579,10 +11799,6 @@ export const area = [{
 	code: 610222,
 	name: '宜君县',
 	parentId: 610200
-}, {
-	code: 610301,
-	name: '市辖区',
-	parentId: 610300
 }, {
 	code: 610302,
 	name: '渭滨区',
@@ -12631,10 +11847,6 @@ export const area = [{
 	code: 610331,
 	name: '太白县',
 	parentId: 610300
-}, {
-	code: 610401,
-	name: '市辖区',
-	parentId: 610400
 }, {
 	code: 610402,
 	name: '秦都区',
@@ -12692,10 +11904,6 @@ export const area = [{
 	name: '兴平市',
 	parentId: 610400
 }, {
-	code: 610501,
-	name: '市辖区',
-	parentId: 610500
-}, {
 	code: 610502,
 	name: '临渭区',
 	parentId: 610500
@@ -12739,10 +11947,6 @@ export const area = [{
 	code: 610582,
 	name: '华阴市',
 	parentId: 610500
-}, {
-	code: 610601,
-	name: '市辖区',
-	parentId: 610600
 }, {
 	code: 610602,
 	name: '宝塔区',
@@ -12796,10 +12000,6 @@ export const area = [{
 	name: '黄陵县',
 	parentId: 610600
 }, {
-	code: 610701,
-	name: '市辖区',
-	parentId: 610700
-}, {
 	code: 610702,
 	name: '汉台区',
 	parentId: 610700
@@ -12843,10 +12043,6 @@ export const area = [{
 	code: 610730,
 	name: '佛坪县',
 	parentId: 610700
-}, {
-	code: 610801,
-	name: '市辖区',
-	parentId: 610800
 }, {
 	code: 610802,
 	name: '榆阳区',
@@ -12896,10 +12092,6 @@ export const area = [{
 	name: '子洲县',
 	parentId: 610800
 }, {
-	code: 610901,
-	name: '市辖区',
-	parentId: 610900
-}, {
 	code: 610902,
 	name: '汉滨区',
 	parentId: 610900
@@ -12940,10 +12132,6 @@ export const area = [{
 	name: '白河县',
 	parentId: 610900
 }, {
-	code: 611001,
-	name: '市辖区',
-	parentId: 611000
-}, {
 	code: 611002,
 	name: '商州区',
 	parentId: 611000
@@ -12971,10 +12159,6 @@ export const area = [{
 	code: 611026,
 	name: '柞水县',
 	parentId: 611000
-}, {
-	code: 620101,
-	name: '市辖区',
-	parentId: 620100
 }, {
 	code: 620102,
 	name: '城关区',
@@ -13008,14 +12192,6 @@ export const area = [{
 	name: '榆中县',
 	parentId: 620100
 }, {
-	code: 620201,
-	name: '市辖区',
-	parentId: 620200
-}, {
-	code: 620301,
-	name: '市辖区',
-	parentId: 620300
-}, {
 	code: 620302,
 	name: '金川区',
 	parentId: 620300
@@ -13023,10 +12199,6 @@ export const area = [{
 	code: 620321,
 	name: '永昌县',
 	parentId: 620300
-}, {
-	code: 620401,
-	name: '市辖区',
-	parentId: 620400
 }, {
 	code: 620402,
 	name: '白银区',
@@ -13047,10 +12219,6 @@ export const area = [{
 	code: 620423,
 	name: '景泰县',
 	parentId: 620400
-}, {
-	code: 620501,
-	name: '市辖区',
-	parentId: 620500
 }, {
 	code: 620502,
 	name: '秦州区',
@@ -13080,10 +12248,6 @@ export const area = [{
 	name: '张家川回族自治县',
 	parentId: 620500
 }, {
-	code: 620601,
-	name: '市辖区',
-	parentId: 620600
-}, {
 	code: 620602,
 	name: '凉州区',
 	parentId: 620600
@@ -13099,10 +12263,6 @@ export const area = [{
 	code: 620623,
 	name: '天祝藏族自治县',
 	parentId: 620600
-}, {
-	code: 620701,
-	name: '市辖区',
-	parentId: 620700
 }, {
 	code: 620702,
 	name: '甘州区',
@@ -13127,10 +12287,6 @@ export const area = [{
 	code: 620725,
 	name: '山丹县',
 	parentId: 620700
-}, {
-	code: 620801,
-	name: '市辖区',
-	parentId: 620800
 }, {
 	code: 620802,
 	name: '崆峒区',
@@ -13160,10 +12316,6 @@ export const area = [{
 	name: '静宁县',
 	parentId: 620800
 }, {
-	code: 620901,
-	name: '市辖区',
-	parentId: 620900
-}, {
 	code: 620902,
 	name: '肃州区',
 	parentId: 620900
@@ -13191,10 +12343,6 @@ export const area = [{
 	code: 620982,
 	name: '敦煌市',
 	parentId: 620900
-}, {
-	code: 621001,
-	name: '市辖区',
-	parentId: 621000
 }, {
 	code: 621002,
 	name: '西峰区',
@@ -13228,10 +12376,6 @@ export const area = [{
 	name: '镇原县',
 	parentId: 621000
 }, {
-	code: 621101,
-	name: '市辖区',
-	parentId: 621100
-}, {
 	code: 621102,
 	name: '安定区',
 	parentId: 621100
@@ -13259,10 +12403,6 @@ export const area = [{
 	code: 621126,
 	name: '岷县',
 	parentId: 621100
-}, {
-	code: 621201,
-	name: '市辖区',
-	parentId: 621200
 }, {
 	code: 621202,
 	name: '武都区',
@@ -13363,10 +12503,6 @@ export const area = [{
 	code: 623027,
 	name: '夏河县',
 	parentId: 623000
-}, {
-	code: 630101,
-	name: '市辖区',
-	parentId: 630100
 }, {
 	code: 630102,
 	name: '城东区',
@@ -13540,10 +12676,6 @@ export const area = [{
 	name: '天峻县',
 	parentId: 632800
 }, {
-	code: 640101,
-	name: '市辖区',
-	parentId: 640100
-}, {
 	code: 640104,
 	name: '兴庆区',
 	parentId: 640100
@@ -13568,10 +12700,6 @@ export const area = [{
 	name: '灵武市',
 	parentId: 640100
 }, {
-	code: 640201,
-	name: '市辖区',
-	parentId: 640200
-}, {
 	code: 640202,
 	name: '大武口区',
 	parentId: 640200
@@ -13583,10 +12711,6 @@ export const area = [{
 	code: 640221,
 	name: '平罗县',
 	parentId: 640200
-}, {
-	code: 640301,
-	name: '市辖区',
-	parentId: 640300
 }, {
 	code: 640302,
 	name: '利通区',
@@ -13608,10 +12732,6 @@ export const area = [{
 	name: '青铜峡市',
 	parentId: 640300
 }, {
-	code: 640401,
-	name: '市辖区',
-	parentId: 640400
-}, {
 	code: 640402,
 	name: '原州区',
 	parentId: 640400
@@ -13632,10 +12752,6 @@ export const area = [{
 	name: '彭阳县',
 	parentId: 640400
 }, {
-	code: 640501,
-	name: '市辖区',
-	parentId: 640500
-}, {
 	code: 640502,
 	name: '沙坡头区',
 	parentId: 640500
@@ -13647,10 +12763,6 @@ export const area = [{
 	code: 640522,
 	name: '海原县',
 	parentId: 640500
-}, {
-	code: 650101,
-	name: '市辖区',
-	parentId: 650100
 }, {
 	code: 650102,
 	name: '天山区',
@@ -13683,10 +12795,6 @@ export const area = [{
 	code: 650121,
 	name: '乌鲁木齐县',
 	parentId: 650100
-}, {
-	code: 650201,
-	name: '市辖区',
-	parentId: 650200
 }, {
 	code: 650202,
 	name: '独山子区',
