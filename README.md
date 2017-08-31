@@ -6,7 +6,8 @@ vue1.x 版本请查看 branch vue1.x
 
 ## Install
 ```
-npm install vue-area --save
+##npm install vue-area --save
+npm install https://github.com/zhaofanjack/vue-area.git --save
 
 ```
 
